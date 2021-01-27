@@ -1,4 +1,4 @@
-# Luke Skywalker BD Theme
+# Savior Skywalker Theme
 
 Hello there! I see you've found your way here to this repository! This is just a side project I am working on for fun. 
 Chances are I linked you here because you're interested in having this theme for yourself! 
