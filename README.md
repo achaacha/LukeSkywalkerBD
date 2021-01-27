@@ -27,6 +27,6 @@ If you're okay with this, please follow the instructions below to help with inst
 
 If you do not already have BandageBD installed, please head over to the [BandageBD repository](https://github.com/rauenzi/BBDInstaller/releases/tag/v1.0.5) and download the executables and install the program.
 
-### Step 2: 
+### Step 2 (Optional): 
 
 Once the program is installed, please download the following:
